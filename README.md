@@ -8,6 +8,7 @@
 - **i18n** – Système de traduction multilingue prêt pour l’internationalisation.
 - **TanStack Router** – Routeur moderne et type-safe pour SPA React.
 - **TanStack Query** + **Axios** – Gestion avancée du cache et des requêtes API.
+- **Framer Motion** – Animations fluides et accessibles.
 
 ## 🧼 Qualité & Productivité
 
